@@ -1,0 +1,18 @@
+Tema: 21
+Nota: 2.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: slab
+
+Tema: 1
+Nota: 3.5
+Predata in saptamana: 6
+Deadline: 7
+Feedback: e
+
+Tema: 3
+Nota: 7.5
+Predata in saptamana: 8
+Deadline: 9
+Feedback: e
+
